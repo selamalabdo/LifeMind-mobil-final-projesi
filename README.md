@@ -288,10 +288,4 @@ npx expo start -c
 
 Terminalde çıkan **QR Kodu**, telefonunuzdaki **Expo Go** uygulaması ile okutun.
 
----
-<div align="center">
 
-**LifeMind Team** tarafından ❤️ ve ☕ ile geliştirilmiştir.
-*(React Native, Expo, Firebase, Gemini AI)*
-
-</div>
