@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "LifeMind",
+    "slug": "lifemind",
+    "scheme": "lifemind",  
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "backgroundColor": "#6C63FF",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6C63FF"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lifemind.app"
+    },
+    "android": {
+      "package": "com.lifemind.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#6C63FF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
